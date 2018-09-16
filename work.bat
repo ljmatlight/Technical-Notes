@@ -1,6 +1,6 @@
 
 :: 切换账号
-git config user.name "ljmatlight"
+git config user.name "tengpeng.gao"
 git config user.email "vimx86@gmail.com"
 
 :: 查看账号
